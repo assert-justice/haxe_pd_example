@@ -1,0 +1,6 @@
+-lib haxe_pd
+-cp src
+-main Main
+--lua bin/lua/main.lua
+--cmd pdc ./bin/lua ./dist/Game.pdx
+--macro includeFile("./src/prelude.lua")
